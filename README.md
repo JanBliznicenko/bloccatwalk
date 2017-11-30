@@ -1,6 +1,8 @@
 # BlocCatWalk
 Simple example with Bloc in Pharo that shows direct positioning of elements, separation of model and elements and moving elements by animation.
 
+This code is just one-time experiment - code test coverage 0 % - use or get inspired at your own risk!
+
 ## Installation
 Use Iceberg or download via following script in Pharo:
 
