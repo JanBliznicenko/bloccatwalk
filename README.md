@@ -21,6 +21,8 @@ MyBoardElement open.
 ```
 ### Cat Walk!
 
+Requires internet connection at first run - needs to download cat images from this repository and install few backdoors.
+
 ```
 CWGameElement example.
 ```
