@@ -1,5 +1,4 @@
-graphics file handling
+accessing-system
 imageName
 	^ String
-		streamContents:
-			[ :stream | stream << self imageDirectoryName << $/ << model name << '.png' ]
+		streamContents: [ :stream | stream << self imageDirectoryName << $/ << model name << '.png' ]

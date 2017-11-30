@@ -6,4 +6,5 @@ modelMoved
 		from: self position;
 		to: (self positionFromModelLocation: model location);
 		onStepDo: [ :aPosition | self relocate: aPosition ];
+		duration: 1 second;
 		startOn: self
