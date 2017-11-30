@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JanBliznicenko 11/30/2017 12:06",
+	"super" : "BlElementEventListener",
+	"category" : "BlocCatWalk-BlocEvents",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"player",
+		"enabled"
+	],
+	"name" : "CWPlayerClickedListener",
+	"type" : "normal"
+}

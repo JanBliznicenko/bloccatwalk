@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "BlocMyExample",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"row",
+		"column",
+		"numberOfTheDay"
+	],
+	"name" : "MyTile",
+	"type" : "normal"
+}

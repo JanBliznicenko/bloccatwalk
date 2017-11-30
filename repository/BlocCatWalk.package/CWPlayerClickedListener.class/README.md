@@ -1,0 +1,1 @@
+Listener (handler) of mouse clicks on player which forwards info to player model

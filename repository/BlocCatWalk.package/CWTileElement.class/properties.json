@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JanBliznicenko 11/30/2017 10:17",
+	"super" : "CWBlElement",
+	"category" : "BlocCatWalk-BlocElements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CWTileElement",
+	"type" : "normal"
+}

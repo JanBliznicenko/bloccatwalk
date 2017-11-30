@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MyBlElement",
+	"category" : "BlocMyExample",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MyTileElement",
+	"type" : "normal"
+}

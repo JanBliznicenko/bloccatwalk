@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JanBliznicenko 11/30/2017 10:18",
+	"super" : "Object",
+	"category" : "BlocCatWalk-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"board",
+		"players"
+	],
+	"name" : "CWGame",
+	"type" : "normal"
+}

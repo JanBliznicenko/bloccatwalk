@@ -1,0 +1,1 @@
+My board tile model which has a location and a magical number! Cool!

@@ -1,0 +1,1 @@
+My general model item that has a location

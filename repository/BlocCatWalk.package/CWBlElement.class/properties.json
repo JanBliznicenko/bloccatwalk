@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JanBliznicenko 11/30/2017 10:16",
+	"super" : "BlElement",
+	"category" : "BlocCatWalk-BlocElements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model"
+	],
+	"name" : "CWBlElement",
+	"type" : "normal"
+}

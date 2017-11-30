@@ -1,0 +1,1 @@
+Announcement telling that player has moved

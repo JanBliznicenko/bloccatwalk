@@ -1,0 +1,1 @@
+My game model which contains a board and players.

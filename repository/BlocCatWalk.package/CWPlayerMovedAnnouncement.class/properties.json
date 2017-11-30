@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JanBliznicenko 11/30/2017 12:06",
+	"super" : "Announcement",
+	"category" : "BlocCatWalk-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"from",
+		"to"
+	],
+	"name" : "CWPlayerMovedAnnouncement",
+	"type" : "normal"
+}
