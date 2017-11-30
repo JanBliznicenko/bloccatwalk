@@ -1,8 +1,8 @@
 drawing
 drawOnSpartaCanvas: aCanvas
 	| brightness |
-	brightness := (1000 + model numberOfTheDay) / 2000.
+	brightness := (CWTile magicalNumber + model numberOfTheDay) / (CWTile magicalNumber * 2).
 	aCanvas fill
-		paint: (Color r: 1 g: brightness b: brightness);
+		paint: (Color r: brightness g: 1 b: brightness);
 		path: self boundsInLocal;
 		draw

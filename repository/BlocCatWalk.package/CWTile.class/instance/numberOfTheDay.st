@@ -1,3 +1,3 @@
 accessing
 numberOfTheDay
-	^ numberOfTheDay ifNil: [ numberOfTheDay := 1000 atRandom ]
+	^ numberOfTheDay ifNil: [ numberOfTheDay := self class magicalNumber atRandom ]

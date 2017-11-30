@@ -2,5 +2,7 @@ graphics file handling
 downloadImages
 	self imageDirectoryName asFileReference ensureCreateDirectory.
 	(ZnEasy
-		get: 'https://https://github.com/bliznjan/bloccatwalk/blob/master/' , self imageName)
+		get:
+			'https://raw.githubusercontent.com/bliznjan/bloccatwalk/master/'
+				, self imageName) entity
 		writeOn: self imageName asFileReference writeStream

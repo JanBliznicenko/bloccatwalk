@@ -1,6 +1,6 @@
 drawing
 drawOnSpartaCanvas: aCanvas
 	aCanvas fill
-		paint: Color veryLightGray;
+		paint: Color veryDarkGray;
 		path: self boundsInLocal;
 		draw

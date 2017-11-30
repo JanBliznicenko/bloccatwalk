@@ -1,0 +1,3 @@
+magic
+magicalNumber
+	^ 42
